@@ -1,7 +1,7 @@
 import hl7 
 import os
 
-def hl7_from_text_file(file_path: str) -> hl7.Message:
+def from_text_file(file_path: str) -> hl7.Message:
     """
 
     """
